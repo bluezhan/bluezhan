@@ -1,7 +1,7 @@
 ### Hi there 👋
-
+Thanks for visiting my GitHub profile, it's great to meet you here! 😊  
 <div align="center">
-	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
+  <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 </div>
 🎥  📽  🎞   ☎️  📟  📠  📺  📻  🎙  🎚  🎛   
 <!--
