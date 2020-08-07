@@ -1,9 +1,9 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=bluezhan&show_icons=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=bluezhan&show_icons=true&theme=algolia">
 
 ### Hello! I'm Bruce Jenn
 
 👩‍💻 A Handyman Developer <br>
-📚 React.js, Vue.js, Javascript(ES6+), Typescript, Node.js, Golang <br> 
+🔭 React.js, Vue.js, Javascript(ES6+), Typescript, Node.js, Golang <br> 
 🚀 **Current** [vue3/vue3-News](https://github.com/vue3/vue3-News)
 
 <!--  
