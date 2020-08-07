@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=bluezhan&show_icons=true&theme=algolia">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=bluezhan&show_icons=true&theme=prussian">
 
 ### Hello! I'm Bruce Jenn
 
