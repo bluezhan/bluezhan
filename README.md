@@ -1,4 +1,4 @@
-<img align='right' src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true">
+<img align='right' src="https://raw.githubusercontent.com/itemsets/vue2/master/blog/n123.gif?sanitize=true">
 
 ### Hello! I'm Bruce Jenn
 Thanks for visiting my GitHub profile, it's great to meet you here! 😊
