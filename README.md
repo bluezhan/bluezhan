@@ -1,12 +1,12 @@
-### Hi there 👋
-Thanks for visiting my GitHub profile, it's great to meet you here! 😊  
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
-</div>
-🎥  📽  🎞   ☎️  📟  📠  📺  📻  🎙  🎚  🎛   
-<!--
-**bluezhan/bluezhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=bluezhan&show_icons=true">
 
+### Hello! I'm Bruce Jenn
+
+👩‍💻 A Handyman Developer <br>
+📚 React.js, Vue.js, Javascript(ES6+), Typescript, Node.js, Golang <br> 
+🚀 **Current** [vue3/vue3-News](https://github.com/vue3/vue3-News)
+
+<!--  
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
