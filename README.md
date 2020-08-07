@@ -7,6 +7,8 @@ Thanks for visiting my GitHub profile, it's great to meet you here! 😊
 🔭 React.js, Vue.js, Javascript(ES6+), Typescript, Node.js, Golang <br> 
 🚀 **Current** [vue3/vue3-News](https://github.com/vue3/vue3-News)
 
+2020 ████████████████░░░░░░░░░░ 59.08%
+
 <!--  
 Here are some ideas to get you started:
 
