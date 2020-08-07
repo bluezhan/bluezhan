@@ -1,6 +1,7 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=bluezhan&show_icons=true&theme=prussian">
+<img align='right' src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true">
 
 ### Hello! I'm Bruce Jenn
+Thanks for visiting my GitHub profile, it's great to meet you here! 😊
 
 👩‍💻 A Handyman Developer <br>
 🔭 React.js, Vue.js, Javascript(ES6+), Typescript, Node.js, Golang <br> 
