@@ -5,9 +5,9 @@ Thanks for visiting my GitHub profile, it's great to meet you here! 😊
 
 👩‍💻 A Handyman Developer <br>
 🔭 React.js, Vue.js, Javascript(ES6+), Typescript, Node.js, Golang <br> 
-🚀 **Current** [vue3/vue3-News](https://github.com/vue3/vue3-News), [itemsets/vue2](https://github.com/itemsets/vue2), [ok3-8/when-i-using-react](https://github.com/ok3-8/when-i-using-react), and more!
+🚀 **Current** [vue3/vue3-News](https://github.com/vue3/vue3-News), [itemsets/vue2](https://github.com/itemsets/vue2), [graphql-bundle](https://github.com/graphql-bundle), and more!
 
-2020 ████████████████░░░░░░░░░░ 59.08%
+2020 ████████████████░░░░░░░░░░ 66.88%
 
 <!--  
 Here are some ideas to get you started:
