@@ -7,7 +7,8 @@ Thanks for visiting my GitHub profile, it's great to meet you here! 😊
 🔭 React.js, Vue.js, Javascript(ES6+), Typescript, Node.js, Golang <br> 
 🚀 **Current** [vue3/vue3-News](https://github.com/vue3/vue3-News), [itemsets/vue2](https://github.com/itemsets/vue2), [graphql-bundle](https://github.com/graphql-bundle), and more!
 
-2020 ████████████████░░░░░░░░░░ 66.88%
+2020 ██████████████████████████ 100%  
+2021 █░░░░░░░░░░░░░░░░░░░░░░░░░ 4.16%
 
 <!--  
 Here are some ideas to get you started:
