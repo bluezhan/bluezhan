@@ -13,7 +13,7 @@ Thanks for visiting my GitHub profile, it's great to meet you here! 😊
 <br />
 🚀 **Current** [vue3/vue3-News](https://github.com/vue3/vue3-News), [itemsets/vue2](https://github.com/itemsets/vue2), [graphql-bundle](https://github.com/graphql-bundle), and more!
 
-2021 █░░░░░░░░░░░░░░░░░░░░░░░░░ 4.16%
+2021 █████████████░░░░░░░░░░░░░░░░░░░░ 32.8%
 
 <!--  
 Here are some ideas to get you started:
