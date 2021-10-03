@@ -11,9 +11,9 @@ Thanks for visiting my GitHub profile, it's great to meet you here! 😊
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 <br />
-🚀 **Current** [vue3/vue3-News](https://github.com/vue3/vue3-News), [itemsets/vue2](https://github.com/itemsets/vue2), [graphql-bundle](https://github.com/graphql-bundle), and more!
+🚀 **Current** [vue3/vue3-News](https://github.com/vue3/vue3-News), [some-cool-things-with-you](https://github.com/ok3-8/some-cool-things-with-you), [itemsets/vue2](https://github.com/itemsets/vue2), [graphql-bundle](https://github.com/graphql-bundle), and more!
 
-2021 █████░░░░░░ 57.8%
+2021 █████████████░░░░ 74.8%
 
 <!--  
 Here are some ideas to get you started:
